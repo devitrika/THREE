@@ -1,0 +1,5 @@
+1. can set entire image as it is as background image (it is getting way too zoomed)
+
+2. point light and ambient light could be even better
+
+3. not responsive (but i guess it is)
